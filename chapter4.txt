@@ -152,7 +152,24 @@ one of our very first dates, which was a footy date.
 One Sunday afternoon we all caught the train to Olympic Park to attend
 a GWS game at the small stadium there. I'm a GWS member, but
 somehow I'd got my hands on five extra tickets, free of charge,
-and free tickets to a GWS game are as rare as hens.
+and free tickets to a GWS game are as rare as hens. (pause) And hens
+are actually pretty common.
+
+GWS have now given away so many free tickets that they turned up in
+one of those super tricky orders-of-magnitude questions in tech
+interviews for companies like Amazon and Google. Here's an actual
+question from the book "Cracking the Coding Interview, 6th Edition":
+
+Q: Order the five quantities from smallest to largest
+(a) The numnber of distinct IPv4 Class A addresses
+(b) The number of free tickets given away by GWS in 2023 and 2024 combined.
+(c) The distance in metres that light travels in five minutes
+(d) 2 to the power of 64
+(e) The number of carbon molecules in a diamond weighing 24 grams
+
+I'll let you solve that question in your own time; the atomic weight
+of Carbon is 12 so 24 grams of Carbon is 2 times Avogadro's constant,
+obviously; so 6 x 10 to the 23 doubled will be 1.2 by 10 to the 24.
 
 The footy date was a great success and cute young Aiden was given one
 of my old GWS member's caps and I'm sure he's still wearing it today.
