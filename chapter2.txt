@@ -156,13 +156,6 @@ her surname by at least ten letters. Suksiphengamattapon becomes
 simply Cooper. Again, I don't want you to see that as nastily racist,
 I want you all to understand that I'm being affectionately racist.
 
-IT Computer guys like me have to deal with two annoyingly long words,
-"localisation" and "internationalisation" and some smart guys
-came up with abbreviations for these words. Localisation is l9n and
-the 9 in the middle is the number of letters you don't have to type
-between the l and the n. Internationalisation becones I18n and you
-save a full eighteen letters by not typing the whole word out.
-
 One of my favourite GNU programmers migrated to Thailand. His name
 is James Clark. Not the Jim Clark of Netscape Browser and Investment
 fame, and not any of the 100 other people named James Clark, but the
