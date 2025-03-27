@@ -163,13 +163,14 @@ question from the book "Cracking the Coding Interview, 6th Edition":
 Q: Order the five quantities from smallest to largest
 (a) The numnber of distinct IPv4 Class A addresses
 (b) The number of free tickets given away by GWS in 2023 and 2024 combined.
-(c) The distance in metres that light travels in five minutes
+(c) The distance in metres that light travels in a vacuum in five minutes
 (d) 2 to the power of 64
 (e) The number of carbon molecules in a diamond weighing 24 grams
 
-I'll let you solve that question in your own time; the atomic weight
-of Carbon is 12 so 24 grams of Carbon is 2 times Avogadro's constant,
-obviously; so 6 x 10 to the 23 doubled will be 1.2 by 10 to the 24.
+I'll let you solve that question in your own time; for part (e) the
+atomic weight of Carbon is 12 so 24 grams of Diamond has 2 times
+Avogadro's constant molecules, obviously; so 6.02 x 10 to the 23
+doubled which is 12.04 by 10 to the 23 which is 1.204 x 10 to the 24.
 
 The footy date was a great success and cute young Aiden was given one
 of my old GWS member's caps and I'm sure he's still wearing it today.
