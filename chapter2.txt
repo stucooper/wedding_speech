@@ -166,8 +166,8 @@ Programming series and the TCP/IP Illustrated series. Along with
 groff, Clark has written a lot of XML managing programs; one was called
 expat which is what Clark is, an expatriate of the UK. Another of his
 programs was called T-REX, a Tree Regular Expression Parser for XML.
-Since he lives in Thailand near Buddhist temples, and wrote T-REX,
-he can get it on *and* bang a gong.
+Since he lives in Thailand near Buddhist temples, the T-REX guy can
+now get it on *and* bang a gong.
 
 Most Aussies have a tourists understanding of Thailand the same way
 that we have a tourists understanding of Bali. One of the stereotypes
