@@ -101,6 +101,15 @@ clothes strewn on the floor and Linus had left unsolved equations all
 over the house. There was a two-litre bottle of Dairy Farmer's Cottage
 Cheese in the fridge with "Full Cream Milk" written on the label.
 
+Yimmy soon started cracking the whip and once she finished doing that
+she started enforcing some standards of discipline and behaviour in
+our home life. When she arrived, there were three thousand and thirty
+books in the house. I'm not making this number up, I have all my books
+catalogued in text files in a github project and a shell script counts
+the books and six months ago I had three thousand and thirty
+books. With Yimmy's help I undertook a massive cull of my book
+collection and today I only have three thousand and sixteen books.
+
 Yimmy has a strong accent and it took a while for me to understand
 a lot of what she says. She pronounces "Aussies" and "Horsies" the same
 way so I sometimes get excited that she wants a trip to Randwick when
