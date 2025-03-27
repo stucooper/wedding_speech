@@ -164,11 +164,10 @@ James Clark who moved to Thailand. He wrote groff, the GNU version of
 the troff formatter which is what man pages are written in and also
 what W. Richard Stevens wrote his books in; including the Unix Network
 Programming series and the TCP/IP Illustrated series. Along with
-groff, Clark has written a lot of XML managing programs; one was called
-expat which is what Clark is, an expatriate of the UK. Another of his
-programs was called T-REX, a Tree Regular Expression Parser for XML.
-Since he lives in Thailand near Buddhist temples, the T-REX guy can
-now get it on *and* bang a gong.
+groff, Clark has written a lot of XML managing programs. One of these
+is called T-REX, a Tree Regular Expression Parser for XML.
+Since he lives in Thailand near Buddhist temples, it is now possible
+for the T-REX guy to get it on *and* bang a gong.
 
 Most Aussies have a tourists understanding of Thailand the same way
 that we have a tourists understanding of Bali. One of the stereotypes
@@ -179,7 +178,7 @@ girlfriend cut his cock off. They managed to retreive the cock and get
 it sewn back on again and the operation was such a success and Bobbit
 became so famous that he went on to made a porn film. Just last year they
 asked the Doctor who did the surgery if he remembered Bobbit and the
-Doctor said "Yes, that's right, yes I did. I did re-member him".
+Doctor said "Yes, that's right, I did. I did re-member him".
 
 Has Yimmy ever threatened my manhood? To be honest, once... twice,
 and, by mathematical induction, all positive integers. But, Yimmy,
