@@ -172,6 +172,7 @@ I'll let you solve that question in your own time; for part (e) the
 atomic weight of Carbon is 12 so 24 grams of Diamond has 2 times
 Avogadro's constant molecules, obviously; so 6.023 x 10 to the 23
 doubled which is 12.046 by 10 to the 23 which is 1.2046 x 10 to the 24
+that's 1.2046 (rainman voice) "two oh four six... two oh four six"
 and let's round that to 1.205 by 10 to the 24. Simple.
 
 The footy date was a great success and cute young Aiden was given one
