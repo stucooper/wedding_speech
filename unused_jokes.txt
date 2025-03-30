@@ -77,3 +77,16 @@ don't think I'll *ever* get over Macho Grande".
 
 Life goes on, for the living, and
 ################################################################
+(James Clark in Thailand)
+One of my favourite GNU programmers migrated to Thailand. His name
+is James Clark. Not the Jim Clark of Netscape Browser and Investment
+fame, and not any of the 100 other people named James Clark, but the
+James Clark who moved to Thailand. He wrote groff, the GNU version of
+the troff formatter which is what man pages are written in and also
+what W. Richard Stevens wrote his books in; including the Unix Network
+Programming series and the TCP/IP Illustrated series. Along with
+groff, Clark has written a lot of XML managing programs. One of these
+is called T-REX, a Tree Regular Expression Parser for XML.
+Since he lives in Thailand near Buddhist temples, it is now possible
+for the T-REX guy to get it on *and* bang a gong.
+################################################################

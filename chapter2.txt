@@ -157,18 +157,6 @@ her surname by at least ten letters. Suksiphengamattapon becomes
 simply Cooper. Again, I don't want you to see that as nastily racist,
 I want you all to understand that I'm being affectionately racist.
 
-One of my favourite GNU programmers migrated to Thailand. His name
-is James Clark. Not the Jim Clark of Netscape Browser and Investment
-fame, and not any of the 100 other people named James Clark, but the
-James Clark who moved to Thailand. He wrote groff, the GNU version of
-the troff formatter which is what man pages are written in and also
-what W. Richard Stevens wrote his books in; including the Unix Network
-Programming series and the TCP/IP Illustrated series. Along with
-groff, Clark has written a lot of XML managing programs. One of these
-is called T-REX, a Tree Regular Expression Parser for XML.
-Since he lives in Thailand near Buddhist temples, it is now possible
-for the T-REX guy to get it on *and* bang a gong.
-
 Most Aussies have a tourists understanding of Thailand the same way
 that we have a tourists understanding of Bali. One of the stereotypes
 of any Thai lady is that she is insanely jealous and at the first
