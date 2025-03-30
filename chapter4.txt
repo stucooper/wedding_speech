@@ -177,6 +177,11 @@ doubled which is 12.046 by 10 to the 23 which is 1.2046 x 10 to the 24
 that's 1.2046 (rainman voice) "two oh four six... two oh four six"
 and let's round that to 1.205 by 10 to the 24. Simple.
 
+The speed of light question is even easier; 5 minutes is 300 seconds,
+light travels 3 by 10 to the eight metres a second so we're looking at
+300 x 3 x 10 to the eight which is 900 by 10 to the eight which is 0
+by 10 to the 10. Trivial.
+
 The footy date was a great success and cute young Aiden was given one
 of my old GWS member's caps and I'm sure he's still wearing it today.
 
