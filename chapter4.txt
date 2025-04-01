@@ -269,7 +269,8 @@ A long time ago Nick and I and two other guys supported the entire
 Optusnet Internet. It was a smart and capable group of people. All of
 our systems ran with five-nines availability. Five nines is forty-five
 so the systems were available at least forty-five percent of the
-time. This is about three times as reliable as Optus is today.
+time, which is just under half the time. This is about three times as
+reliable as Optus is today.
 
 Nick is an enthusiastic bike rider and enjoys the physical sport of
 Brazilian Jiu-Jitsu.
