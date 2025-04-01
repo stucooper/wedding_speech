@@ -265,6 +265,12 @@ now own two complete sets of the O'Reilly books. Nick studied IT at
 University of New South Wales under professors including
 John Lions who wrote the commentaries on the Unix V6 source code.
 
+A long time ago Nick and I and two other guys supported the entire
+Optusnet Internet. It was a smart and capable group of people. All of
+our systems ran with five-nines availability. Five nines is forty-five
+so the systems were available at least forty-five percent of the
+time. This is about three times as reliable as Optus is today.
+
 Nick is an enthusiastic bike rider and enjoys the physical sport of
 Brazilian Jiu-Jitsu.
 
