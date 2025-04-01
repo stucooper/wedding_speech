@@ -4,12 +4,6 @@ from this file once they're in chapter1..chapter4.txt
 
 Sean Evans, Hot Ones. The show has never had a Thai contestant.
 ################################################################
-Talk to some of the IT Computer Scientists here or just listen
-to their conversations. It's like watching an episode of the Big Bang
-Theory, if the Big Bang Theory was actually funny. I think the Big Bang
-Theory has done more damage to the image of scientists than
-COVID-19 and Global Warming put together.
-################################################################
 I got visited by the alien from Stardust Memories: "By earth standards
 I have an IQ of 1600 and *I* can't even understand what you expected from
 that relationship"
