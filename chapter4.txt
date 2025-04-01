@@ -281,10 +281,10 @@ in to their conversations you can hear some IT funnys. "The OIE
 Transaction Server, OIETS, stopped working for a minute. It was a case
 of OIETS Interruptus. I saw a Perl program that counted from 1 to 10
 in Persian. It used Farsi logic. Alan Turing was homogeneous. The
-group uses Django, but without all the adminstration overhead, so they
-use Djano Unchained. The email said two beers per person, they didn't
-mean it it was a token message for the Responsible Service of Alcohol,
-the RSA, and that makes it an RSA token! I spent
+group uses Python Django, but without all the adminstration overhead,
+so they use Djano Unchained. The email said two beers per person, they
+didn't mean it it was a token message for the Responsible Service of
+Alcohol, the RSA, and that makes it an RSA token! I spent
 20 minutes endorsing colleagues for their skills on LinkedIn. Suddenly
 I felt a wave of happiness spreading through my body, because my brain
 was releasing endorsphins".
